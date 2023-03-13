@@ -1,0 +1,5 @@
+SHA 1: 30:8B:FF:C5:6D:1B:A8:ED:95:67:F0:CE:4A:F6:94:A5:F9:04:21:B7
+SHA 256: F1:42:25:18:8F:F6:22:12:F7:1C:A2:BE:C7:A3:2C:71:52:37:BA:11:CA:A2:0A:51:39:0D:FF:06:66:38:07:A0
+
+
+C:\Users\ASUS\IdeaProjects\lyse_app\android>.\gradlew signinReport

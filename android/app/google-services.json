@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "905957655030",
+    "project_id": "lyse-app-logiciel",
+    "storage_bucket": "lyse-app-logiciel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905957655030:android:836e198af53c1ddc3f47d7",
+        "android_client_info": {
+          "package_name": "com.example.lyse_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905957655030-5bdnvrgli4vjaoago9amuhg97bor8gjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lyse_app",
+            "certificate_hash": "308bffc56d1ba8ed9567f0ce4af694a5f90421b7"
+          }
+        },
+        {
+          "client_id": "905957655030-jlqi51k64lau7svkehlsujig19244k9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAep3_zS12yLWXY6aW71M4L-7mqubtbLEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905957655030-jlqi51k64lau7svkehlsujig19244k9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
